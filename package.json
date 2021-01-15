@@ -6,6 +6,7 @@
   "scripts": {
     "build:scripts": "babel ./src --out-dir=./dist"
   },
+  "browserslist": "> 0.25%, not dead",
   "keywords": [],
   "author": "",
   "license": "ISC",
