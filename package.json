@@ -6,7 +6,8 @@
   "scripts": {
     "build:scripts": "babel ./src --out-dir=./dist"
   },
-  "browserslist": "last 2 versions, > 1%",
+  "browserslist": ["> 0.25%, not dead",
+                    "last 2 versions, > 1%"],
   "keywords": [],
   "author": "",
   "license": "ISC",
