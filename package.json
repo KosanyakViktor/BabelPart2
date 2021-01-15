@@ -6,16 +6,13 @@
   "scripts": {
     "build:scripts": "babel ./src --out-dir=./dist"
   },
-  "browserslist": "> 0.25%, not dead",
+  "browserslist": "last 2 versions, > 1%",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
-    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
-    "@babel/plugin-transform-arrow-functions": "^7.12.1",
-    "@babel/plugin-transform-template-literals": "^7.12.1",
     "@babel/preset-env": "^7.12.11"
   },
   "dependencies": {}
