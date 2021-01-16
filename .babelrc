@@ -3,7 +3,7 @@
       [
         "@babel/preset-env",
         {
-          "useBuiltIns": "entry"
+          "targeta": "> 0.25%, not dead"
         }
       ]
     ]
