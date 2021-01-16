@@ -14,5 +14,7 @@
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11"
   },
-  "dependencies": {}
+  "dependencies": {
+    "core-js": "^3.8.2"
+  }
 }
